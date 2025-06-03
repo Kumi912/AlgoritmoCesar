@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huawei\\Desktop\\Desencryptar\\Desencryptar\\Desencryptar.csproj": {}
+    "C:\\Users\\octavius\\Desktop\\encriptar\\AlgoritmoCesar\\Desencryptar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huawei\\Desktop\\Desencryptar\\Desencryptar\\Desencryptar.csproj": {
+    "C:\\Users\\octavius\\Desktop\\encriptar\\AlgoritmoCesar\\Desencryptar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\Desencryptar\\Desencryptar\\Desencryptar.csproj",
+        "projectUniqueName": "C:\\Users\\octavius\\Desktop\\encriptar\\AlgoritmoCesar\\Desencryptar.csproj",
         "projectName": "Desencryptar",
-        "projectPath": "C:\\Users\\Huawei\\Desktop\\Desencryptar\\Desencryptar\\Desencryptar.csproj",
-        "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huawei\\Desktop\\Desencryptar\\Desencryptar\\obj\\",
+        "projectPath": "C:\\Users\\octavius\\Desktop\\encriptar\\AlgoritmoCesar\\Desencryptar.csproj",
+        "packagesPath": "C:\\Users\\octavius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\octavius\\Desktop\\encriptar\\AlgoritmoCesar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\octavius\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
