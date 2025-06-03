@@ -1,0 +1,6 @@
+@Desencryptar_HostAddress = http://localhost:5062
+
+GET {{Desencryptar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
